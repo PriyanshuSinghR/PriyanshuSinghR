@@ -71,6 +71,12 @@
 ![mac](https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 
+## 📝 Blog Posts
+
+-   [Why does Console return “undefined” in Browser console?](https://priyanshu-singh.hashnode.dev/why-does-console-return-undefined-in-browser-console)
+-   [Common Errors in JavaScript](https://priyanshu-singh.hashnode.dev/common-errors-in-javascript)
+-   [What is the Difference Between "==" and "===" in javaScript?](https://priyanshu-singh.hashnode.dev/what-is-the-difference-between-and-in-javascript)
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://my-portfolio-xi-eight-88.vercel.app)
