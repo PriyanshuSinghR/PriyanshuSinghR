@@ -74,7 +74,7 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://my-portfolio-xi-eight-88.vercel.app)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/PriyanshuSinghR/PriyanshuSinghR/files/12777080/priyanshuResume.pdf){:target="_blank" rel="noopener noreferrer"}
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/PriyanshuSinghR/PriyanshuSinghR/files/12777080/priyanshuResume.pdf)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/priyanshu844)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/PriyanshuSinghR)
 [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=Microsoftoutlook&logoColor=white)](mailto:priyanshusingh.gh@outlook.com)
