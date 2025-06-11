@@ -3,34 +3,36 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=550&lines=%E2%9C%A8+Hey%2C+I'm+Priyanshu.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-A passionate **Full-Stack Developer** with an extensive knowledge of building creative websites using **ReactJS** and **NodeJS**.
-Passionate and dedicated towards technology and innovation seeking to further work on ReactJS and improve technical skillsetsat the atmospheric solutions.
+A dedicated **Frontend Engineer** with 2+ years of professional experience building intuitive, scalable, and accessible web apps using **React**, **TypeScript**, and **Tailwind CSS**—along with backend integration using **Django** and **Node.js**.
+
+---
 
 ## 🚀 About Me
 
-🎓 I'm Priyanshu, a passionate and dedicated ***Full Stack Developer*** eager to embark on a rewarding journey in the world of **web development**. 🌐
+🎓 I'm Priyanshu Singh, a passionate **Frontend Engineer** with a strong foundation in full-stack development. I specialize in building clean, responsive UI and seamless user experiences.
 
 #### 🖥️ My Journey So Far:
-- I am graduated with a Bachelor's degree in Information Technology
 - I am in ***NeoG Camp***, where I am gaining hands-on experience in full-stack development with technologies like **ReactJS, ExpressJS, and MongoDB**. I'm excited to bring my theoretical knowledge into practical use.
+- Worked at **Chakr Innovation** as a **Frontend Engineer**, delivering internal platforms such as:
+  - **Slot Booking System** with real-time form handling, role-based access, and time zone logic.
+  - **Dynamic Form Engine** driven by metadata, supporting validations and conditional rendering.
+  - **D3.js Dashboards** for real-time analytics and data visualizations.
+- Experience integrating frontend with APIs using **Django** and **Node.js**, ensuring full-stack ownership.
 
-#### 💡 What I Bring to the Table:
-- Proficiency in web technologies such as **HTML, CSS, JavaScript, and React** for building dynamic and user-friendly **front-end** interfaces.
-- **Backend** development skills using **NodeJS** and **Express** to create robust, scalable server-side applications.
-- Experience with **databases**, including **SQL** and **NoSQL** databases like **MongoDB**.
-- Version control using **Git**, ensuring efficient collaboration and code management.
-- A knack for **problem-solving** and a commitment to writing clean, maintainable code.
-- A passion for learning and staying updated with the latest industry trends and best practices.
 
-#### 💼 My Aspirations:
-- I'm on the lookout for opportunities to work with dynamic teams where I can contribute to innovative projects and further expand my skill set. I'm eager to take on challenges, collaborate with talented professionals, and make a meaningful impact in the tech world.
+#### 💡 What I Bring:
+- Proficient in **React**, **TypeScript**, **Tailwind CSS**, and state management using **React Hook Form** and **Zod**.
+- Backend experience with **Django**, **Node.js**, and **Express.js**, building and consuming REST APIs.
+- Hands-on with tools like **Git**, **Vercel**, **Firebase**, **PostgreSQL**, **MongoDB**.
+- Focus on code quality, performance optimization, accessibility, and scalability.
+
+#### 💼 My Goal:
+To be part of a collaborative, product-driven team where I can take ownership of UI architecture, contribute to user-first products, and grow alongside a passionate team of builders.
 
 #### 🏔 Hobbies:
-- 🎸 When I am free you can find me helping other people to **Learn code**, **Playing Volleyball**, enjoy **solo traveling** to explore diverse cultures and connect with people from various backgrounds.
-
-- 📚 I also love reading books on **personal development** & **Psychology**. My favorite ones are **Ikigai** by _Francesc Miralles_ in the genre of personal development, **The Mountain is You** by _Brianna Wiest_ in the genre of personal development and **Man's Search for Meaning** by _Viktor Frankl_ in the genre of psychology and philosophical.
-
-- ✈️ I love **traveling** too. I have been on solo trips to **Spiti, Himachal Pradesh** in _2021_ and to **Sikkim, India** in _2022_.
+- ✈️ **Solo Travel Enthusiast** – I've explored regions like **Spiti** and **Sikkim**, and love connecting with new cultures.
+- 📘 Passionate about **personal development and psychology**, with favorites like *Ikigai* and *Man’s Search for Meaning*.
+- 🧠 I also enjoy helping others learn to code and contributing to tech communities.
 
 ## 🛠️ Skills
 
@@ -86,7 +88,7 @@ Passionate and dedicated towards technology and innovation seeking to further wo
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://my-portfolio-xi-eight-88.vercel.app)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/PriyanshuSinghR/PriyanshuSinghR/files/12777080/priyanshuResume.pdf)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1XNh1OzGay7UGhcSb-f4LRAbnvbq5IMcT/view)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/priyanshu844)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/PriyanshuSinghR)
 [![outlook](https://img.shields.io/badge/outlook-0078D4?style=for-the-badge&logo=Microsoftoutlook&logoColor=white)](mailto:priyanshusingh.gh@outlook.com)
